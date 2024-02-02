@@ -1,0 +1,6 @@
+org\proiect\views\pacienti\FormPacientView.class
+org\proiect\programri\FormProgramareView.class
+org\proiect\AppShell.class
+org\proiect\MainView.class
+org\proiect\views\pacienti\NavigableGridPacientiView.class
+org\proiect\programri\NavigableGridProgramariView.class

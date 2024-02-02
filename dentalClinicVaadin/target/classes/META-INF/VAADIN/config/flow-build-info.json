@@ -1,0 +1,16 @@
+{
+  "productionMode": false,
+  "eagerServerLoad": false,
+  "npmFolder": "C:\\Users\\anton\\Desktop\\teme\\facultate\\anul 3\\programare 2\\proiectCabinetDentar.web",
+  "node.version": "v20.9.0",
+  "node.download.root": "https://nodejs.org/dist/",
+  "frontendFolder": "C:\\Users\\anton\\Desktop\\teme\\facultate\\anul 3\\programare 2\\proiectCabinetDentar.web\\frontend",
+  "connect.javaSourceFolder": "C:\\Users\\anton\\Desktop\\teme\\facultate\\anul 3\\programare 2\\proiectCabinetDentar.web\\src\\main\\java",
+  "javaResourceFolder": "C:\\Users\\anton\\Desktop\\teme\\facultate\\anul 3\\programare 2\\proiectCabinetDentar.web\\src\\main\\resources",
+  "connect.applicationProperties": "C:\\Users\\anton\\Desktop\\teme\\facultate\\anul 3\\programare 2\\proiectCabinetDentar.web\\src\\main\\resources\\application.properties",
+  "connect.openApiFile": "C:\\Users\\anton\\Desktop\\teme\\facultate\\anul 3\\programare 2\\proiectCabinetDentar.web\\target\\generated-resources\\openapi.json",
+  "project.frontend.generated": "C:\\Users\\anton\\Desktop\\teme\\facultate\\anul 3\\programare 2\\proiectCabinetDentar.web\\frontend\\generated",
+  "pnpm.enable": false,
+  "require.home.node": false,
+  "build.folder": "target"
+}

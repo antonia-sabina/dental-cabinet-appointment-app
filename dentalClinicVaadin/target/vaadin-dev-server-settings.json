@@ -1,0 +1,17 @@
+{
+  "frontendFolder": "C:/Users/anton/Desktop/teme/facultate/anul 3/programare 2/proiectCabinetDentar.web/frontend",
+  "themeFolder": "themes",
+  "themeResourceFolder": "C:/Users/anton/Desktop/teme/facultate/anul 3/programare 2/proiectCabinetDentar.web/frontend/generated/jar-resources",
+  "staticOutput": "C:/Users/anton/Desktop/teme/facultate/anul 3/programare 2/proiectCabinetDentar.web/target/classes/META-INF/VAADIN/webapp/VAADIN/static",
+  "generatedFolder": "generated",
+  "statsOutput": "C:\\Users\\anton\\Desktop\\teme\\facultate\\anul 3\\programare 2\\proiectCabinetDentar.web\\target\\classes\\META-INF\\VAADIN\\config",
+  "frontendBundleOutput": "C:\\Users\\anton\\Desktop\\teme\\facultate\\anul 3\\programare 2\\proiectCabinetDentar.web\\target\\classes\\META-INF\\VAADIN\\webapp",
+  "devBundleOutput": "C:/Users/anton/Desktop/teme/facultate/anul 3/programare 2/proiectCabinetDentar.web/src/main/dev-bundle/webapp",
+  "devBundleStatsOutput": "C:/Users/anton/Desktop/teme/facultate/anul 3/programare 2/proiectCabinetDentar.web/src/main/dev-bundle/config",
+  "jarResourcesFolder": "C:/Users/anton/Desktop/teme/facultate/anul 3/programare 2/proiectCabinetDentar.web/frontend/generated/jar-resources",
+  "themeName": "",
+  "clientServiceWorkerSource": "C:\\Users\\anton\\Desktop\\teme\\facultate\\anul 3\\programare 2\\proiectCabinetDentar.web\\target\\sw.ts",
+  "pwaEnabled": true,
+  "offlineEnabled": true,
+  "offlinePath": "'.'"
+}
